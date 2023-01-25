@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.meowconflict.uk/uncategorized/hello-world/</loc>
+    <loc>https://meowconflict.github.io/categories/</loc>
+    
+    <lastmod>2023-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://meowconflict.github.io/uncategorized/hello-world/</loc>
     
     <lastmod>2023-01-24</lastmod>
     
@@ -12,8 +21,8 @@
   
 
   <url>
-    <loc>http://blog.meowconflict.uk/</loc>
-    <lastmod>2023-01-24</lastmod>
+    <loc>https://meowconflict.github.io/</loc>
+    <lastmod>2023-01-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

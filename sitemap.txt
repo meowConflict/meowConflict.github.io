@@ -1,2 +1,3 @@
-http://blog.meowconflict.uk/uncategorized/hello-world/
-http://blog.meowconflict.uk/
+https://meowconflict.github.io/categories/
+https://meowconflict.github.io/uncategorized/hello-world/
+https://meowconflict.github.io/

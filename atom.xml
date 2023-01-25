@@ -3,11 +3,11 @@
   <title>meowConflict&#39;s home</title>
   
   
-  <link href="http://blog.meowconflict.uk/atom.xml" rel="self"/>
+  <link href="https://meowconflict.github.io/atom.xml" rel="self"/>
   
-  <link href="http://blog.meowconflict.uk/"/>
+  <link href="https://meowconflict.github.io/"/>
   <updated>2023-01-24T18:11:28.406Z</updated>
-  <id>http://blog.meowconflict.uk/</id>
+  <id>https://meowconflict.github.io/</id>
   
   <author>
     <name>meowConflict</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://blog.meowconflict.uk/uncategorized/hello-world/"/>
-    <id>http://blog.meowconflict.uk/uncategorized/hello-world/</id>
+    <link href="https://meowconflict.github.io/uncategorized/hello-world/"/>
+    <id>https://meowconflict.github.io/uncategorized/hello-world/</id>
     <published>2023-01-24T18:11:28.405Z</published>
     <updated>2023-01-24T18:11:28.406Z</updated>
     
